@@ -1,15 +1,13 @@
-# Data Scientist
+#### Technical Skills: Python, TypeScript, SQL
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Education							       		
+- M.Sc., Data Science	| The University of Birmingham (_December 2024_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2022_)
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Work Experience
+- AI Developer Intern	| Legal Pythia (_May 2024 - October 2024_)	 			        		
+- Associate Software Engineer | Exponentia.ai (_February 2022 - June 2023_)
 
 [View Projects](./another-page.html)
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
