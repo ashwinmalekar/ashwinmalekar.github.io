@@ -1,4 +1,4 @@
-#### Technical Skills: Python, TypeScript, SQL
+I like to build intelligent scalable AI systems with a focus on natural language processing & deep learning. 
 
 ## Education							       		
 - M.Sc., Data Science	| The University of Birmingham (_December 2024_)	 			        		
