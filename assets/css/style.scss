@@ -1,14 +1,13 @@
 ---
 ---
-img {
-  max-width:50%;
-}
-h1 {
-  color: #727272;
-  font-size:22px;
-}
-a:hover, a:focus {
-  color:#069;
-  font-weight: light;
-}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+/* Set a custom font variable before importing the theme */
+$base-font-family: 'Poppins', sans-serif;
 @import "{{ site.theme }}";
+h1 a {
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: 700; /* Optional: Adjust weight */
+  text-decoration: none; /* Remove underline if needed */
+}
+
