@@ -1,13 +1,15 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+/* Import a minimal font (Inter, 300 weight for light look) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
-/* Set a custom font variable before importing the theme */
+/* Set a custom font before importing the theme */
+$base-font-family: 'Inter', sans-serif; 
 $base-font-family: 'Poppins', sans-serif;
 @import "{{ site.theme }}";
 h1 a {
-  font-family: 'Poppins', sans-serif !important;
-  font-weight: 700; /* Optional: Adjust weight */
-  text-decoration: none; /* Remove underline if needed */
+  font-family: 'Inter', sans-serif !important;
+  font-weight: 300; 
+  text-decoration: none; 
 }
 
