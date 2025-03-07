@@ -1,6 +1,6 @@
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Hello!**
 
-[Link to another page](./another-page.html).
+[View Projects](./another-page.html)
 
 There should be whitespace between paragraphs.
 
