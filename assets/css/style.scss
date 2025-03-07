@@ -1,8 +1,6 @@
 ---
 ---
-$logo-width: 100px;
-@import "{{ site.theme }}";
-.site-header .site-logo img {
-  width: 100px; 
-  height: auto; 
+img {
+  max-width:50%;
 }
+@import "{{ site.theme }}";
