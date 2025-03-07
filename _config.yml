@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Ashwin Malekar
 logo: assets/logo_round.png
-description: Software Developer, AI/ML
+description:    Software Developer, AI/ML
