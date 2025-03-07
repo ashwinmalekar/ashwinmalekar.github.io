@@ -1,10 +1,13 @@
-**Hello!**
+# Data Scientist
+
+#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+
+## Education
+- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
 [View Projects](./another-page.html)
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
 
