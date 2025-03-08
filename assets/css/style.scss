@@ -15,9 +15,9 @@ h1 a {
 .view {
   display: flex; 
   align-items: center;
-  gap: 15px; /* Adds space between icons */
+  gap: 19px;
+  padding-left: 43px;
 }
-
 .view a {
   display: inline-block;
 }
