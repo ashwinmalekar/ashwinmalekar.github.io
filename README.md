@@ -1,10 +1,4 @@
-# Software Developer, AI/ML
+Welcome to my Portfolio!
 
-### Education
-Data Science, MSc at The University of Birmingham
+Made with Jekyll's Minimal theme
 
-### Work Experience
-AI Software Developer at Legal Pythia 
- - test
- - test
- - test
