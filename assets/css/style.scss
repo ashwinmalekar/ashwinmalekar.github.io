@@ -12,7 +12,13 @@ h1 a {
   font-weight: 300; 
   text-decoration: none; 
 }
-p.view {
-  font-size: larger;
+.view {
+  display: flex; 
+  align-items: center;
+  gap: 15px; /* Adds space between icons */
+}
+
+.view a {
+  display: inline-block;
 }
 
